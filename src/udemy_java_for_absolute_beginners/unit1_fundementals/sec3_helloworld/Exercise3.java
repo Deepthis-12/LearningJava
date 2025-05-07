@@ -12,7 +12,5 @@ public class Exercise3 {
         System.out.println("\tCake");
         System.out.println("Is\t\tA");
         System.out.println("\tLie");
-
-
     }
 }

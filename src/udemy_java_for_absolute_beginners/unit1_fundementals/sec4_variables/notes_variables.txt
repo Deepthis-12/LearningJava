@@ -1,0 +1,15 @@
+ There are different variable types
+ byte,short,int,long
+ float,double
+ boolean
+ char,string
+
+Type casting from top to bottom is called implicit casting
+for example: int a=10;
+             long b=a;
+
+Type casting from bottom to top is called explicit casting. Otherwise compilation error comes which says loss of value
+for example: long a = 10;
+             int b = (int) a;
+
+Remember analogy of basket and ball.
