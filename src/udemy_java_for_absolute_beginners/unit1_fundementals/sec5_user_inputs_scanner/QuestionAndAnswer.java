@@ -1,4 +1,4 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec5_user_inputs;
+package udemy_java_for_absolute_beginners.unit1_fundementals.sec5_user_inputs_scanner;
 import java.util.Scanner;
 
 public class QuestionAndAnswer {
@@ -9,10 +9,10 @@ public class QuestionAndAnswer {
         {name} is a good name. - Response
 
         How old are you,  {name} ? - Question
-        Your name is {name} and you are {age} years old
+        Your name is {name} and you are {age} years old - Response
 
-        What is your height in meters , {name} ?
-        {name}, you are {height} in meters
+        What is your height in meters , {name} ? - Question
+        {name}, you are {height} in meters - Response
         */
         System.out.println("what is your name?");
         String name=scanner.next();
@@ -23,12 +23,6 @@ public class QuestionAndAnswer {
         System.out.println(" What is your height in meters," +name+ "?");
         double height= scanner.nextDouble();
         System.out.println(name+ ",you are "+height+ " in meters");
-
-
-
-
-
-
     }
 
 }
