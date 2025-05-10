@@ -1,6 +1,6 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec3_helloworld;
+package udemy_java_for_absolute_beginners.unit1_fundementals.sec3_helloworld.exercises;
 
-public class Exercise1 {
+public class PrintWithFormatUsingManyPrintln {
     /*
     SHOPPING LIST
         - Milk
