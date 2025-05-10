@@ -1,4 +1,4 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec6_conditional_statements;
+package learn.java.udemy.javaforabsolutebeginners.unit1.fundamentals.sec6.conditional.statements;
 
 public class ConditionalStatements {
     public static void main(String[] args) {

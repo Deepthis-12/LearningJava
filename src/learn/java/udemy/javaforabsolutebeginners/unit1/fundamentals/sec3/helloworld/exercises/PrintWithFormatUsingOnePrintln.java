@@ -1,4 +1,4 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec3_helloworld.exercises;
+package learn.java.udemy.javaforabsolutebeginners.unit1.fundamentals.sec3.helloworld.exercises;
 
 public class PrintWithFormatUsingOnePrintln {
     public static void main(String[] args) {

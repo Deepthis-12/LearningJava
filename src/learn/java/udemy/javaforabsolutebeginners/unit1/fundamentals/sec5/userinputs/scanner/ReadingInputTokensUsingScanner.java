@@ -1,4 +1,4 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec5_user_inputs_with_scanner;
+package learn.java.udemy.javaforabsolutebeginners.unit1.fundamentals.sec5.userinputs.scanner;
 
 import java.util.Scanner;
 

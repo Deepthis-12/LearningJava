@@ -1,4 +1,4 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec3_helloworld;
+package learn.java.udemy.javaforabsolutebeginners.unit1.fundamentals.sec3.helloworld;
 
 public class HelloWorld {
     public static void main(String[] args) {

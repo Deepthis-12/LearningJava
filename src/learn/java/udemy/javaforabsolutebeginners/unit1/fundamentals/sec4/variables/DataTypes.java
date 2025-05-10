@@ -1,4 +1,4 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec4_variables;
+package learn.java.udemy.javaforabsolutebeginners.unit1.fundamentals.sec4.variables;
 
 public class DataTypes {
     public static void main(String[] args) {
