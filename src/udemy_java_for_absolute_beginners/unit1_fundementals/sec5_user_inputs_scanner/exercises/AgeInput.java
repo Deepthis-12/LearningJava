@@ -1,8 +1,8 @@
-package udemy_java_for_absolute_beginners.unit1_fundementals.sec5_user_inputs_scanner;
+package udemy_java_for_absolute_beginners.unit1_fundementals.sec5_user_inputs_scanner.exercises;
 
 import java.util.Scanner;
 
-public class CodingChallenge2UserInput {
+public class AgeInput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
