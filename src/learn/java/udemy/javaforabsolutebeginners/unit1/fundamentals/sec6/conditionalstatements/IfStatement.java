@@ -2,7 +2,7 @@ package learn.java.udemy.javaforabsolutebeginners.unit1.fundamentals.sec6.condit
 
 import java.util.Scanner;
 
-public class ConditionalStatements {
+public class IfStatement {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Welcome to roller coaster !!");
